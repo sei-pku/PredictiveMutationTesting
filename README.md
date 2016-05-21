@@ -9,8 +9,8 @@ mutants are generated and executed against the test suite
 to check the ratio of killed mutants. Therefore, mutation
 testing is widely believed to be a computationally expensive
 technique. To alleviate the efficiency concern of mutation
-testing, we propose predictive mutation test-
-ing (PMT), the first approach to predicting mutation testing
+testing, we propose predictive mutation testing (PMT), 
+the first approach to predicting mutation testing
 results without mutant execution. In particular, the proposed
 approach constructs a classification model based on
 a series of features related to mutants and tests, and uses
@@ -21,6 +21,11 @@ on 163 real-world projects under two application scenarios
 demonstrate that PMT improves the efficiency of mutation
 testing by up to 151.4X while incurring only a small
 accuracy loss when predicting mutant execution results, indicating
-a good tradeoff between sociency and effectiveness
+a good tradeoff between efficiency and effectiveness
 of mutation testing.
 
+
+arffs_for_weka： all the arffs used as training data and test data.
+experi_results:  all the experimental results
+project_info:  the project names, commit number (for the 9 base projects), and urls 
+tools: our tools used for collecting test assertions and static metrics
