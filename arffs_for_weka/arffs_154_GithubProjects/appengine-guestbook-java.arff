@@ -1,0 +1,60 @@
+@relation weather.symbolic
+
+@attribute DepthTree numeric
+@attribute NumSubclass numeric
+@attribute McCabe numeric
+@attribute LOC numeric
+@attribute DepthNested numeric
+@attribute CA numeric
+@attribute CE numeric
+@attribute Instability numeric
+@attribute numCovered numeric
+@attribute operator {T0,T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15}
+@attribute methodReturn {I,V,Z,method,D,[D,[[D,J,[I,C,[J,[C,[S,F,[F,[B,S,B,[Z,[[S,[[B,[[Z}
+@attribute numTestsCover numeric
+@attribute mutantAssert numeric
+@attribute classAssert numeric
+@attribute isKilled {yes, no}
+
+@data
+3,0,3,19,3,0,2,1,0,T1,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T6,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T6,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T7,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T7,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T7,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T7,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T8,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T8,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T10,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T10,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T10,V,1,1,6,no
+3,0,3,19,3,0,2,1,0,T10,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T10,V,0,0,6,no
+3,0,3,19,3,0,2,1,0,T10,V,0,0,6,no
+3,0,1,17,1,0,2,1,3,T1,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T1,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T1,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T7,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T10,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T10,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T10,V,1,5,5,yes
+3,0,1,17,1,0,2,1,3,T10,V,1,5,5,yes

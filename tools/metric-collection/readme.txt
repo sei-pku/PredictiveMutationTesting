@@ -1,0 +1,2 @@
+This tool is used to get the static-metric-related features(e.g.,depInheritance and numChildren). 
+we implemented it based on the abstract syntax tree (AST) analysis provided by the Eclipse JDT toolkit6.

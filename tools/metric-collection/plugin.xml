@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+   <extension-point id="edu.pku.sei.metric.metricsAnalyzer" name="metricsAnalyzer" schema="schema/edu.pku.sei.metricsAnalyzer.exsd"/>
+   <extension-point id="edu.pku.sei.metric.mathOperation" name="mathOperation" schema="schema/edu.pku.sei.mathOperation.exsd"/>
+   <extension
+         point="org.eclipse.ui.popupMenus">
+      <objectContribution
+            adaptable="false"
+            id="PKUMetric Plugin.popupMenu"
+            objectClass="org.eclipse.jdt.core.IJavaElement">
+         <action
+               class="edu.pku.sei.metric.ui.PopupAction"
+               icon="icons/chart_bar.png"
+               id="PKUMetric Plugin.action"
+               label="%textPopup"/>
+      </objectContribution>
+   </extension>
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            class="edu.pku.sei.metric.ui.MetricsView"
+            icon="icons/metrics_view.gif"
+            id="PKUMetric Plugin.MetricsView"
+            name="%textResult"/>
+   </extension>
+   <extension
+         point="edu.pku.sei.metric.metricsAnalyzer">
+      <analyzer
+            analyzerClass="edu.pku.sei.metric.analyzer.InheritanceDepth">
+         <metricValue
+               description="Metric the number of level of inheritance"
+               level="type"
+               metricName="Depth of Inheritance"
+               propagate="false"
+               />
+         <metricValue
+               description="Metric the number of subclasses that extends the given class"
+               level="type"
+               metricName="Number of Subclasses"
+               propagate="false"
+               />
+      </analyzer>
+      <analyzer
+            analyzerClass="edu.pku.sei.metric.analyzer.LineOfCode"
+            >
+         <metricValue
+               description="Metric the line length of pure code "
+               level="compilationUnit"
+               metricName="Line of Code"
+               propagate="true"
+               />
+         <metricValue
+               description="Metric the line length of code and comments "
+               level="compilationUnit"
+               metricName="Line of Code and Comment"
+               propagate="true"
+               />
+         <metricValue
+               description="Metric the gross line of length "
+               level="compilationUnit"
+               metricName="Gross Line of Code "
+               propagate="true"
+               />
+      </analyzer>
+      <analyzer analyzerClass="edu.pku.sei.metric.analyzer.McCabe">
+         <metricValue
+               description="McCabe"
+               level="method"
+               metricName="McCabe"
+               propagate="false"/>
+      </analyzer>
+      <analyzer analyzerClass="edu.pku.sei.metric.analyzer.MethodLineOfCode">
+         <metricValue
+               description="MethodLineOfCode"
+               level="method"
+               propagate="true"
+               metricName="MethodLineOfCode"/>
+      </analyzer>
+      <analyzer analyzerClass="edu.pku.sei.metric.analyzer.NestedBlockDepth">
+         <metricValue
+               description="Metric the depth of nested block"
+               level="method"
+               metricName="Nested Block Depth"
+               propagate="false"/>
+      </analyzer>
+      <analyzer analyzerClass="edu.pku.sei.metric.analyzer.NumberOfOverridenMethods">
+         <metricValue
+               description="Metric the number of overridden methods"
+               level="type"
+               propagate="true"
+               metricName="Number of Overridden methods"/>
+      </analyzer>
+      <analyzer analyzerClass="edu.pku.sei.metric.analyzer.NumberOfFields">
+         <metricValue
+               description="Metric the number of fields of the type"
+               level="type"
+               propagate="true"
+               metricName="Number of fields"/>
+         <metricValue
+               description="Metric the number of instance fields "
+               level="type"
+               propagate="true"
+               metricName="Number of Instance Fields"/>
+         <metricValue
+               description="Metric the number of static fields "
+               level="type"
+               propagate="true"
+               metricName="Number of Static Fields"/>
+      </analyzer>
+      <analyzer analyzerClass="edu.pku.sei.metric.analyzer.NumberOfMethods">
+         <metricValue
+               description="Metric the number of methods "
+               level="type"
+               propagate="true"
+               metricName="Number of Methods "/>
+         <metricValue
+               description="Metric the number of static methods"
+               level="type"
+               propagate="true"
+               metricName="Number of Static Methods"/>
+         <metricValue
+               description="Metric the number of instance methods "
+               level="type"
+               propagate="true"
+               metricName="Number of Instance Methods"/>
+      </analyzer>
+      <analyzer analyzerClass="edu.pku.sei.metric.analyzer.NumberOfParameters">
+         <metricValue
+               description="Metric the number of parameters of the method"
+               level="method"
+               metricName="Number of Parameters"
+               propagate="false"/>
+      </analyzer>
+      <analyzer analyzerClass="edu.pku.sei.metric.analyzer.RMartinCouplings">
+         <metricValue
+               description="Metric Robert Martin Couplings "
+               level="packageFragment"
+               propagate="false"
+               metricName="RMartin Couplings"/>
+         <metricValue
+               description="Metric AfferentCoupling of Package"
+               level="packageFragment"
+               metricName="AfferentCoupling"
+               propagate="false"/>
+         <metricValue
+               description="Metric EfferentCoupling of Package"
+               level="packageFragment"
+               metricName="EfferentCoupling"
+               propagate="false"/>
+         <metricValue
+               description="Calculate the Instability of Package"
+               level="packageFragment"
+               metricName="Instability"
+               propagate="false"/>
+         <metricValue
+               description="Calculate the abstractness of package"
+               level="packageFragment"
+               metricName="Abstractness"
+               propagate="false"/>
+      </analyzer>
+   </extension>
+   <extension
+         point="edu.pku.sei.metric.mathOperation">
+      <mathOperator
+            operatorClass="edu.pku.sei.metric.analyzer.math.Average">
+      </mathOperator>
+      <mathOperator
+            operatorClass="edu.pku.sei.metric.analyzer.math.Min">
+      </mathOperator>
+      <mathOperator
+            operatorClass="edu.pku.sei.metric.analyzer.math.Max">
+      </mathOperator>
+   </extension>
+
+</plugin>

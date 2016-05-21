@@ -1,0 +1,19 @@
+@relation weather.symbolic
+
+@attribute DepthTree numeric
+@attribute NumSubclass numeric
+@attribute McCabe numeric
+@attribute LOC numeric
+@attribute DepthNested numeric
+@attribute CA numeric
+@attribute CE numeric
+@attribute Instability numeric
+@attribute numCovered numeric
+@attribute operator {ROR,STD,LVR,AOR,COR,SOR,ORU,LOR}
+@attribute methodReturn {none,I,V,Z,method,D,[D,[[D,J,[I,C,[J,[C,[S,F,[F,[B,S,B,[Z,[[S,[[B,[[Z}
+@attribute numTestsCover numeric
+@attribute mutantAssert numeric
+@attribute classAssert numeric
+@attribute isKilled {yes, no}
+
+@data

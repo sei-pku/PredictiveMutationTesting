@@ -1,0 +1,1041 @@
+subject,feature type,measurements,value
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,random forest,precision,0.941718816
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,random forest,recall,0.938016529
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,random forest,F-measure,0.938535832
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,random forest,AUC,0.970351731
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,random forest,error,0.037190083
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,J48,precision,0.856422345
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,J48,recall,0.853305785
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,J48,F-measure,0.849176095
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,J48,AUC,0.92899732
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,J48,error,0.076446281
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,naive bayers,precision,0.39191739
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,naive bayers,recall,0.626033058
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,naive bayers,F-measure,0.482053409
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,naive bayers,AUC,0.866345751
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,naive bayers,error,0.373966942
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,SVM,precision,0.786052009
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,SVM,recall,0.5
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,SVM,F-measure,0.433956772
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,SVM,AUC,0.600660066
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\aho-corasick.arff,SVM,error,0.5
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,random forest,precision,0.959946595
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,random forest,recall,0.887850467
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,random forest,F-measure,0.910845606
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,random forest,AUC,0.957973422
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,random forest,error,0.112149533
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,J48,precision,0.961030059
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,J48,recall,0.962616822
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,J48,F-measure,0.961694947
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,J48,AUC,0.981478405
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,J48,error,0.00623053
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,naive bayers,precision,0.879271358
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,naive bayers,recall,0.937694704
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,naive bayers,F-measure,0.907543749
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,naive bayers,AUC,0.715282392
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,naive bayers,error,0.062305296
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,SVM,precision,0.942209581
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,SVM,recall,0.202492212
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,SVM,F-measure,0.252328662
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,SVM,AUC,0.574750831
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\anomaly-detection.arff,SVM,error,0.797507788
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,random forest,precision,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,random forest,recall,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,random forest,F-measure,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,random forest,AUC,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,random forest,error,0
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,J48,precision,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,J48,recall,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,J48,F-measure,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,J48,AUC,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,J48,error,0
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,naive bayers,precision,0.99753922
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,naive bayers,recall,0.998768852
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,naive bayers,F-measure,0.998153657
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,naive bayers,AUC,0.916949153
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,naive bayers,error,0.001231148
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,SVM,precision,0.99879591
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,SVM,recall,0.945213912
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,SVM,F-measure,0.97065627
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,SVM,AUC,0.97257319
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\apk-parser.arff,SVM,error,0.054786088
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,random forest,precision,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,random forest,recall,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,random forest,F-measure,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,random forest,AUC,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,random forest,error,0
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,J48,precision,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,J48,recall,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,J48,F-measure,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,J48,AUC,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,J48,error,0
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,naive bayers,precision,0.342653183
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,naive bayers,recall,0.585365854
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,naive bayers,F-measure,0.432270169
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,naive bayers,AUC,0.776960784
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,naive bayers,error,0.414634146
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,SVM,precision,0.770860077
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,SVM,recall,0.487804878
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,SVM,F-measure,0.386400591
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,SVM,AUC,0.5625
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\appengine-guestbook-java.arff,SVM,error,0.512195122
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,random forest,precision,0.997903564
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,random forest,recall,0.997641509
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,random forest,F-measure,0.997709458
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,random forest,AUC,0.999098558
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,random forest,error,0.002358491
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,J48,precision,0.992975188
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,J48,recall,0.992924528
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,J48,F-measure,0.992120838
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,J48,AUC,0.625450721
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,J48,error,0.007075472
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,naive bayers,precision,0.96262015
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,naive bayers,recall,0.981132075
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,naive bayers,F-measure,0.97178796
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,naive bayers,AUC,0.926081731
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,naive bayers,error,0.018867925
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,SVM,precision,0.981902195
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,SVM,recall,0.556603774
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,SVM,F-measure,0.696194475
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,SVM,AUC,0.774038462
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\are-we-consistent-yet.arff,SVM,error,0.443396226
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,random forest,precision,0.856593577
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,random forest,recall,0.826974268
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,random forest,F-measure,0.817739728
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,random forest,AUC,0.862257806
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,random forest,error,0.155279503
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,J48,precision,0.754526587
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,J48,recall,0.755989352
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,J48,F-measure,0.753903906
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,J48,AUC,0.744984349
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,J48,error,0.041703638
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,naive bayers,precision,0.178388179
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,naive bayers,recall,0.422360248
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,naive bayers,F-measure,0.250834034
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,naive bayers,AUC,0.497150473
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,naive bayers,error,0.577639752
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,SVM,precision,0.856590593
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,SVM,recall,0.809228039
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,SVM,F-measure,0.794920513
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,SVM,AUC,0.774159664
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ashot.arff,SVM,error,0.190771961
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,random forest,precision,0.99167381
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,random forest,recall,0.990207599
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,random forest,F-measure,0.990638581
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,random forest,AUC,0.996931096
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,random forest,error,0.007703356
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,J48,precision,0.979159448
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,J48,recall,0.980545763
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,J48,F-measure,0.97948723
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,J48,AUC,0.828987663
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,J48,error,0.007703356
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,naive bayers,precision,0.95946436
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,naive bayers,recall,0.963311137
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,naive bayers,F-measure,0.946989252
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,naive bayers,AUC,0.577416241
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,naive bayers,error,0.036166601
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,SVM,precision,0.965169881
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,SVM,recall,0.58179919
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,SVM,F-measure,0.700674935
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,SVM,AUC,0.782641151
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\brickhouse.arff,SVM,error,0.41820081
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,random forest,precision,0.953917051
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,random forest,recall,0.935483871
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,random forest,F-measure,0.939569892
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,random forest,AUC,0.984615385
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,random forest,error,0.064516129
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,J48,precision,0.953917051
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,J48,recall,0.935483871
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,J48,F-measure,0.939569892
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,J48,AUC,0.953846154
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,J48,error,0.064516129
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,naive bayers,precision,0.703433923
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,naive bayers,recall,0.838709677
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,naive bayers,F-measure,0.765138653
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,naive bayers,AUC,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,naive bayers,error,0.161290323
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,SVM,precision,0.881154499
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,SVM,recall,0.548387097
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,SVM,F-measure,0.596915676
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,SVM,AUC,0.730769231
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\byteunits.arff,SVM,error,0.451612903
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,random forest,precision,0.959869134
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,random forest,recall,0.946269262
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,random forest,F-measure,0.949521909
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,random forest,AUC,0.97907448
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,random forest,error,0.050486618
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,J48,precision,0.946564184
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,J48,recall,0.939375507
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,J48,F-measure,0.941699642
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,J48,AUC,0.931330963
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,J48,error,0.029399838
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,naive bayers,precision,0.736979778
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,naive bayers,recall,0.858475264
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,naive bayers,F-measure,0.79310152
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,naive bayers,AUC,0.633555384
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,naive bayers,error,0.141524736
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,SVM,precision,0.906686228
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,SVM,recall,0.726074615
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,SVM,F-measure,0.767434892
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,SVM,AUC,0.840458196
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cassandra-reaper.arff,SVM,error,0.273925385
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,random forest,precision,0.87571666
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,random forest,recall,0.817934783
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,random forest,F-measure,0.826896944
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,random forest,AUC,0.899469754
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,random forest,error,0.157065217
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,J48,precision,0.829934656
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,J48,recall,0.801630435
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,J48,F-measure,0.808969991
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,J48,AUC,0.786422229
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,J48,error,0.091847826
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,naive bayers,precision,0.521692167
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,naive bayers,recall,0.722282609
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,naive bayers,F-measure,0.605814823
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,naive bayers,AUC,0.476456262
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,naive bayers,error,0.277717391
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,SVM,precision,0.851998377
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,SVM,recall,0.734782609
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,SVM,F-measure,0.748212905
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,SVM,AUC,0.807369548
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\chromecast-java-api-v2.arff,SVM,error,0.248913043
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,random forest,precision,0.984206857
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,random forest,recall,0.981702466
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,random forest,F-measure,0.982685153
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,random forest,AUC,0.992037492
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,random forest,error,0.007159905
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,J48,precision,0.987534336
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,J48,recall,0.985680191
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,J48,F-measure,0.986372648
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,J48,AUC,0.994084994
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,J48,error,0.00636436
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,naive bayers,precision,0.943540991
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,naive bayers,recall,0.971360382
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,naive bayers,F-measure,0.957248609
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,naive bayers,AUC,0.69468332
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,naive bayers,error,0.028639618
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,SVM,precision,0.973090292
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,SVM,recall,0.554494829
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,SVM,F-measure,0.685589216
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,SVM,AUC,0.770679771
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\clojure-maven-plugin.arff,SVM,error,0.445505171
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,random forest,precision,0.929558274
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,random forest,recall,0.922587487
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,random forest,F-measure,0.923269788
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,random forest,AUC,0.950957719
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,random forest,error,0.054931071
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,J48,precision,0.826965945
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,J48,recall,0.821633086
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,J48,F-measure,0.822915356
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,J48,AUC,0.854170817
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,J48,error,0.040933192
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,naive bayers,precision,0.366904478
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,naive bayers,recall,0.605726405
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,naive bayers,F-measure,0.456995011
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,naive bayers,AUC,0.677382572
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,naive bayers,error,0.394273595
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,SVM,precision,0.79717543
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,SVM,recall,0.597879109
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,SVM,F-measure,0.566542924
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,SVM,AUC,0.667503876
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cloudhopper-smpp.arff,SVM,error,0.399575822
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,random forest,precision,0.881124756
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,random forest,recall,0.861204718
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,random forest,F-measure,0.859351428
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,random forest,AUC,0.901876852
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,random forest,error,0.114363943
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,J48,precision,0.798671833
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,J48,recall,0.798652064
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,J48,F-measure,0.798647777
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,J48,AUC,0.800718858
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,J48,error,0.0042123
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,naive bayers,precision,0.730378213
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,naive bayers,recall,0.560025274
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,naive bayers,F-measure,0.460580402
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,naive bayers,AUC,0.631067265
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,naive bayers,error,0.429865206
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,SVM,precision,0.857844102
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,SVM,recall,0.803074979
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,SVM,F-measure,0.795199465
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,SVM,AUC,0.802910002
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\compress.arff,SVM,error,0.195661331
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,random forest,precision,0.983179743
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,random forest,recall,0.971946796
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,random forest,F-measure,0.975402805
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,random forest,AUC,0.988146918
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,random forest,error,0.026440951
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,J48,precision,0.979327106
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,J48,recall,0.974768239
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,J48,F-measure,0.976465894
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,J48,AUC,0.950115969
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,J48,error,0.012333736
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,naive bayers,precision,0.926280171
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,naive bayers,recall,0.962434502
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,naive bayers,F-measure,0.944011298
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,naive bayers,AUC,0.603867316
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,naive bayers,error,0.037565498
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,SVM,precision,0.966946235
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,SVM,recall,0.724788392
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,SVM,F-measure,0.809927907
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,SVM,AUC,0.857023201
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\computoser.arff,SVM,error,0.275211608
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,random forest,precision,0.9609657
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,random forest,recall,0.960784314
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,random forest,F-measure,0.960622457
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,random forest,AUC,0.963887625
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,random forest,error,0.015686275
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,J48,precision,0.917061491
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,J48,recall,0.911764706
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,J48,F-measure,0.91253258
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,J48,AUC,0.912842844
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,J48,error,0.045098039
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,naive bayers,precision,0.14769704
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,naive bayers,recall,0.384313725
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,naive bayers,F-measure,0.213386658
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,naive bayers,AUC,0.721727545
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,naive bayers,error,0.615686275
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,SVM,precision,0.807345433
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,SVM,recall,0.719607843
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,SVM,F-measure,0.665096274
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,SVM,AUC,0.635204082
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\Confucius.arff,SVM,error,0.280392157
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,random forest,precision,0.727898032
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,random forest,recall,0.805
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,random forest,F-measure,0.745170021
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,random forest,AUC,0.667944368
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,random forest,error,0.15
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,J48,precision,0.744614475
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,J48,recall,0.75
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,J48,F-measure,0.747238752
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,J48,AUC,0.586068765
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,J48,error,0.01
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,naive bayers,precision,0.03330625
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,naive bayers,recall,0.1825
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,naive bayers,F-measure,0.056331924
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,naive bayers,AUC,0.608646475
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,naive bayers,error,0.8175
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,SVM,precision,0.66830625
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,SVM,recall,0.8175
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,SVM,F-measure,0.735412655
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,SVM,AUC,0.5
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cors-filter.arff,SVM,error,0.1825
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,random forest,precision,0.984330706
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,random forest,recall,0.979202182
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,random forest,F-measure,0.980582497
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,random forest,AUC,0.990105764
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,random forest,error,0.020115922
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,J48,precision,0.96445902
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,J48,recall,0.965564269
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,J48,F-measure,0.964944494
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,J48,AUC,0.793660558
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,J48,error,0.004432322
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,naive bayers,precision,0.88358718
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,naive bayers,recall,0.939993181
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,naive bayers,F-measure,0.910917821
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,naive bayers,AUC,0.693321957
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,naive bayers,error,0.060006819
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,SVM,precision,0.948831005
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,SVM,recall,0.652574156
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,SVM,F-measure,0.742306742
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,SVM,AUC,0.815197679
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\crawler4j.arff,SVM,error,0.347425844
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,random forest,precision,0.924849671
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,random forest,recall,0.91726297
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,random forest,F-measure,0.914594828
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,random forest,AUC,0.922781175
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,random forest,error,0.07647585
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,J48,precision,0.846471062
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,J48,recall,0.842128801
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,J48,F-measure,0.843475628
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,J48,AUC,0.826816487
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,J48,error,0.030858676
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,naive bayers,precision,0.126412686
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,naive bayers,recall,0.355545617
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,naive bayers,F-measure,0.186511888
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,naive bayers,AUC,0.491617893
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,naive bayers,error,0.644454383
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,SVM,precision,0.847414684
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,SVM,recall,0.813059034
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,SVM,F-measure,0.793350509
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,SVM,AUC,0.740208363
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\css-selectors.arff,SVM,error,0.177101968
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,random forest,precision,0.874873402
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,random forest,recall,0.872727273
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,random forest,F-measure,0.872643098
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,random forest,AUC,0.959986772
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,random forest,error,0.036363636
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,J48,precision,0.832280249
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,J48,recall,0.827272727
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,J48,F-measure,0.826367343
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,J48,AUC,0.736441799
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,J48,error,0.063636364
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,naive bayers,precision,0.259173554
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,naive bayers,recall,0.509090909
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,naive bayers,F-measure,0.343483023
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,naive bayers,AUC,0.555555556
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,naive bayers,error,0.490909091
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,SVM,precision,0.904748982
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,SVM,recall,0.881818182
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,SVM,F-measure,0.88040738
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,SVM,AUC,0.883928571
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\csv-serde.arff,SVM,error,0.118181818
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,random forest,precision,0.9019305
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,random forest,recall,0.867005506
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,random forest,F-measure,0.869769143
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,random forest,AUC,0.941312229
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,random forest,error,0.130453198
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,J48,precision,0.871724571
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,J48,recall,0.857687421
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,J48,F-measure,0.860017913
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,J48,AUC,0.885802947
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,J48,error,0.073697586
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,naive bayers,precision,0.413382007
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,naive bayers,recall,0.642947903
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,naive bayers,F-measure,0.503219859
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,naive bayers,AUC,0.702557058
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,naive bayers,error,0.357052097
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,SVM,precision,0.783932987
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,SVM,recall,0.480304956
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,SVM,F-measure,0.414263891
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,SVM,AUC,0.595322324
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\cucumber-reporting.arff,SVM,error,0.518000847
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,random forest,precision,0.970065972
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,random forest,recall,0.969933854
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,random forest,F-measure,0.969852481
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,random forest,AUC,0.981764706
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,random forest,error,0.012026458
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,J48,precision,0.863559656
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,J48,recall,0.826217679
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,J48,F-measure,0.827694595
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,J48,AUC,0.894290505
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,J48,error,0.143716176
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,naive bayers,precision,0.158943422
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,naive bayers,recall,0.39867709
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,naive bayers,F-measure,0.227276793
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,naive bayers,AUC,0.492680241
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,naive bayers,error,0.60132291
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,SVM,precision,0.940495596
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,SVM,recall,0.939867709
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,SVM,F-measure,0.939483014
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,SVM,AUC,0.931701357
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ddd-cqrs-sample.arff,SVM,error,0.026458208
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,random forest,precision,0.834971471
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,random forest,recall,0.831213873
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,random forest,F-measure,0.806318819
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,random forest,AUC,0.747422193
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,random forest,error,0.136416185
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,J48,precision,0.742883285
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,J48,recall,0.756069364
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,J48,F-measure,0.74796188
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,J48,AUC,0.695610018
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,J48,error,0.042774566
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,naive bayers,precision,0.606691205
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,naive bayers,recall,0.280924855
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,naive bayers,F-measure,0.191673409
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,naive bayers,AUC,0.5399678
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,naive bayers,error,0.679768786
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,SVM,precision,0.861402224
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,SVM,recall,0.830057803
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,SVM,F-measure,0.794553044
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,SVM,AUC,0.658139535
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\DiskLruCache.arff,SVM,error,0.169942197
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,random forest,precision,0.948603525
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,random forest,recall,0.93639576
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,random forest,F-measure,0.938894098
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,random forest,AUC,0.963963964
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,random forest,error,0.056537102
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,J48,precision,0.887014949
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,J48,recall,0.890459364
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,J48,F-measure,0.887975612
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,J48,AUC,0.967065426
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,J48,error,0.024734982
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,naive bayers,precision,0.615365406
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,naive bayers,recall,0.784452297
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,naive bayers,F-measure,0.689696673
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,naive bayers,AUC,0.70333038
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,naive bayers,error,0.215547703
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,SVM,precision,0.869280748
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,SVM,recall,0.667844523
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,SVM,F-measure,0.695515359
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,SVM,AUC,0.788288288
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-configurable-assets-bundle.arff,SVM,error,0.332155477
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,random forest,precision,0.729901371
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,random forest,recall,0.715328467
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,random forest,F-measure,0.690749684
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,random forest,AUC,0.767904656
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,random forest,error,0.189781022
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,J48,precision,0.765861875
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,J48,recall,0.751824818
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,J48,F-measure,0.735479947
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,J48,AUC,0.731651885
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,J48,error,0.160583942
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,naive bayers,precision,0.161170014
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,naive bayers,recall,0.401459854
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,naive bayers,F-measure,0.230003041
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,naive bayers,AUC,0.539162971
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,naive bayers,error,0.598540146
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,SVM,precision,0.817394532
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,SVM,recall,0.737226277
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,SVM,F-measure,0.69695798
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,SVM,AUC,0.672727273
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-guice.arff,SVM,error,0.262773723
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,random forest,precision,0.871794872
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,random forest,recall,0.848484848
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,random forest,F-measure,0.791666667
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,random forest,AUC,0.652066116
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,random forest,error,0.151515152
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,J48,precision,0.745689655
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,J48,recall,0.772727273
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,J48,F-measure,0.757801584
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,J48,AUC,0.547107438
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,J48,error,0.045454545
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,naive bayers,precision,0.027777778
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,naive bayers,recall,0.166666667
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,naive bayers,F-measure,0.047619048
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,naive bayers,AUC,0.696694215
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,naive bayers,error,0.833333333
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,SVM,precision,0.871794872
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,SVM,recall,0.848484848
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,SVM,F-measure,0.791666667
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,SVM,AUC,0.545454545
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\dropwizard-quartz.arff,SVM,error,0.151515152
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,random forest,precision,0.913644909
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,random forest,recall,0.889064475
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,random forest,F-measure,0.892015499
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,random forest,AUC,0.950681787
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,random forest,error,0.102085967
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,J48,precision,0.866718056
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,J48,recall,0.862831858
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,J48,F-measure,0.864132518
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,J48,AUC,0.862991924
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,J48,error,0.026548673
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,naive bayers,precision,0.453621834
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,naive bayers,recall,0.673514539
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,naive bayers,F-measure,0.542118784
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,naive bayers,AUC,0.734267302
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,naive bayers,error,0.326485461
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,SVM,precision,0.858139541
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,SVM,recall,0.756321113
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,SVM,F-measure,0.762635257
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,SVM,AUC,0.817852037
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\efflux.arff,SVM,error,0.240518331
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,random forest,precision,0.894211266
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,random forest,recall,0.885304659
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,random forest,F-measure,0.884015239
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,random forest,AUC,0.926655663
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,random forest,error,0.078853047
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,J48,precision,0.838797787
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,J48,recall,0.838709677
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,J48,F-measure,0.83874294
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,J48,AUC,0.868165876
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,J48,error,0.003584229
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,naive bayers,precision,0.220462224
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,naive bayers,recall,0.46953405
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,naive bayers,F-measure,0.30004371
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,naive bayers,AUC,0.426500928
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,naive bayers,error,0.53046595
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,SVM,precision,0.91560769
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,SVM,recall,0.899641577
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,SVM,F-measure,0.897973702
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,SVM,AUC,0.893129771
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-readonlyrest-plugin.arff,SVM,error,0.100358423
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,random forest,precision,0.946646463
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,random forest,recall,0.92849162
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,random forest,F-measure,0.932207007
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,random forest,AUC,0.969001306
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,random forest,error,0.069273743
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,J48,precision,0.840262682
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,J48,recall,0.793296089
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,J48,F-measure,0.807841703
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,J48,AUC,0.850860834
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,J48,error,0.106145251
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,naive bayers,precision,0.643580413
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,naive bayers,recall,0.802234637
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,naive bayers,F-measure,0.71420269
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,naive bayers,AUC,0.592346915
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,naive bayers,error,0.197765363
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,SVM,precision,0.853560838
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,SVM,recall,0.43575419
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,SVM,F-measure,0.448581021
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,SVM,AUC,0.648328691
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\elasticsearch-reindex.arff,SVM,error,0.56424581
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,random forest,precision,0.999190211
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,random forest,recall,0.998866304
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,random forest,F-measure,0.998970876
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,random forest,AUC,0.999715371
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,random forest,error,9.42E-04
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,J48,precision,0.999106965
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,J48,recall,0.999010012
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,J48,F-measure,0.999048541
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,J48,AUC,0.938143308
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,J48,error,3.51E-04
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,naive bayers,precision,0.995688378
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,naive bayers,recall,0.9244096
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,naive bayers,F-measure,0.958725967
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,naive bayers,AUC,0.403411241
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,naive bayers,error,0.071438836
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,SVM,precision,0.997932637
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,SVM,recall,0.490283743
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,SVM,F-measure,0.655671166
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,SVM,AUC,0.744611741
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evernote-sdk-java.arff,SVM,error,0.509716257
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,random forest,precision,0.97644122
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,random forest,recall,0.976076555
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,random forest,F-measure,0.976056773
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,random forest,AUC,0.996146789
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,random forest,error,0.014354067
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,J48,precision,0.867831159
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,J48,recall,0.822966507
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,J48,F-measure,0.815717355
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,J48,AUC,0.957752294
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,J48,error,0.177033493
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,naive bayers,precision,0.271994689
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,naive bayers,recall,0.5215311
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,naive bayers,F-measure,0.35752761
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,naive bayers,AUC,0.341651376
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,naive bayers,error,0.4784689
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,SVM,precision,0.820574163
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,SVM,recall,0.71291866
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,SVM,F-measure,0.691534315
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,SVM,AUC,0.724770642
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\evo-inflector.arff,SVM,error,0.28708134
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,random forest,precision,0.984322758
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,random forest,recall,0.977427742
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,random forest,F-measure,0.979431128
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,random forest,AUC,0.988828315
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,random forest,error,0.020989562
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,J48,precision,0.983267294
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,J48,recall,0.979424954
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,J48,F-measure,0.980682974
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,J48,AUC,0.958532762
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,J48,error,0.013415232
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,naive bayers,precision,0.899540373
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,naive bayers,recall,0.648189321
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,naive bayers,F-measure,0.751042072
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,naive bayers,AUC,0.379862668
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,naive bayers,error,0.271620756
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,SVM,precision,0.957542044
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,SVM,recall,0.286543317
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,SVM,F-measure,0.390442515
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,SVM,AUC,0.626405936
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\ews-java-api.arff,SVM,error,0.713456683
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,random forest,precision,0.964548028
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,random forest,recall,0.962711864
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,random forest,F-measure,0.962472466
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,random forest,AUC,0.96947314
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,random forest,error,0.033898305
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,J48,precision,0.908211428
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,J48,recall,0.905932203
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,J48,F-measure,0.906270432
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,J48,AUC,0.890967105
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,J48,error,0.029661017
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,naive bayers,precision,0.755384769
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,naive bayers,recall,0.568644068
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,naive bayers,F-measure,0.517639383
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,naive bayers,AUC,0.533049316
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,naive bayers,error,0.41440678
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,SVM,precision,0.771087182
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,SVM,recall,0.619491525
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,SVM,F-measure,0.512900534
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,SVM,AUC,0.552788845
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\exp4j.arff,SVM,error,0.380508475
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,random forest,precision,0.970324781
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,random forest,recall,0.962479608
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,random forest,F-measure,0.964250561
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,random forest,AUC,0.984637909
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,random forest,error,0.037520392
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,J48,precision,0.867586663
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,J48,recall,0.644371941
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,J48,F-measure,0.697850892
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,J48,AUC,0.872361348
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,J48,error,0.319738989
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,naive bayers,precision,0.736292776
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,naive bayers,recall,0.858075041
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,naive bayers,F-measure,0.792532873
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,naive bayers,AUC,0.695216555
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,naive bayers,error,0.141924959
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,SVM,precision,0.020142694
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,SVM,recall,0.141924959
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,SVM,F-measure,0.03527849
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,SVM,AUC,0.5
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\expiringmap.arff,SVM,error,0.858075041
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,random forest,precision,0.986778361
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,random forest,recall,0.979763912
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,random forest,F-measure,0.982046833
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,random forest,AUC,0.990690987
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,random forest,error,0.016863406
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,J48,precision,0.979891083
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,J48,recall,0.978077572
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,J48,F-measure,0.978879431
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,J48,AUC,0.919976112
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,J48,error,0.004496908
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,naive bayers,precision,0.94567152
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,naive bayers,recall,0.972456436
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,naive bayers,F-measure,0.958876965
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,naive bayers,AUC,0.594636959
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,naive bayers,error,0.027543564
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,SVM,precision,0.971189626
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,SVM,recall,0.748735245
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,SVM,F-measure,0.833193375
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,SVM,AUC,0.821233927
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\fastweixin.arff,SVM,error,0.24564362
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,random forest,precision,0.886396152
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,random forest,recall,0.883458647
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,random forest,F-measure,0.884915811
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,random forest,AUC,0.629480287
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,random forest,error,0.003759398
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,J48,precision,0.904832624
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,J48,recall,0.804511278
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,J48,F-measure,0.844793803
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,J48,AUC,0.587701613
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,J48,error,0.127819549
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,naive bayers,precision,0.004579117
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,naive bayers,recall,0.067669173
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,naive bayers,F-measure,0.008577782
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,naive bayers,AUC,0.770497312
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,naive bayers,error,0.932330827
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,SVM,precision,0.943495101
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,SVM,recall,0.939849624
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,SVM,F-measure,0.916729323
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,SVM,AUC,0.555555556
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\flip-tables.arff,SVM,error,0.060150376
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,random forest,precision,0.894255374
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,random forest,recall,0.874375446
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,random forest,F-measure,0.871663802
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,random forest,AUC,0.899058526
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,random forest,error,0.115631692
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,J48,precision,0.831578233
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,J48,recall,0.827980014
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,J48,F-measure,0.826647896
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,J48,AUC,0.833780161
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,J48,error,0.060670949
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,naive bayers,precision,0.21857794
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,naive bayers,recall,0.467523198
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,naive bayers,F-measure,0.297886862
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,naive bayers,AUC,0.428914516
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,naive bayers,error,0.532476802
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,SVM,precision,0.787897358
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,SVM,recall,0.737330478
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,SVM,F-measure,0.719653899
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,SVM,AUC,0.721970612
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gdx-artemis.arff,SVM,error,0.218415418
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,random forest,precision,0.862357792
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,random forest,recall,0.782810685
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,random forest,F-measure,0.79040614
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,random forest,AUC,0.869644756
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,random forest,error,0.203252033
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,J48,precision,0.822355677
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,J48,recall,0.773519164
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,J48,F-measure,0.781358547
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,J48,AUC,0.798746013
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,J48,error,0.147502904
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,naive bayers,precision,0.469567165
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,naive bayers,recall,0.68524971
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,naive bayers,F-measure,0.557267166
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,naive bayers,AUC,0.608052411
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,naive bayers,error,0.31475029
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,SVM,precision,0.847634065
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,SVM,recall,0.711962834
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,SVM,F-measure,0.718990861
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,SVM,AUC,0.788832948
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gelfj.arff,SVM,error,0.285714286
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,random forest,precision,0.924095189
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,random forest,recall,0.916299559
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,random forest,F-measure,0.906110516
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,random forest,AUC,0.93951094
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,random forest,error,0.083700441
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,J48,precision,0.859166195
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,J48,recall,0.850220264
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,J48,F-measure,0.853978474
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,J48,AUC,0.783526384
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,J48,error,0.026431718
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,naive bayers,precision,0.03423315
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,naive bayers,recall,0.185022026
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,naive bayers,F-measure,0.057776395
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,naive bayers,AUC,0.646460746
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,naive bayers,error,0.814977974
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,SVM,precision,0.924095189
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,SVM,recall,0.916299559
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,SVM,F-measure,0.906110516
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,SVM,AUC,0.773809524
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\GenericTree.arff,SVM,error,0.083700441
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,random forest,precision,0.884138334
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,random forest,recall,0.881818182
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,random forest,F-measure,0.874537227
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,random forest,AUC,0.852356771
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,random forest,error,0.081818182
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,J48,precision,0.858434211
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,J48,recall,0.852272727
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,J48,F-measure,0.854536629
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,J48,AUC,0.849661458
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,J48,error,0.029545455
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,naive bayers,precision,0.805755396
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,naive bayers,recall,0.325
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,naive bayers,F-measure,0.219424402
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,naive bayers,AUC,0.844765625
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,naive bayers,error,0.675
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,SVM,precision,0.870997897
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,SVM,recall,0.843181818
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,SVM,F-measure,0.819173848
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,SVM,AUC,0.7125
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geo.arff,SVM,error,0.156818182
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,random forest,precision,0.918635764
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,random forest,recall,0.902298851
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,random forest,F-measure,0.901618836
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,random forest,AUC,0.950552356
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,random forest,error,0.097701149
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,J48,precision,0.856389276
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,J48,recall,0.850574713
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,J48,F-measure,0.850258469
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,J48,AUC,0.863475438
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,J48,error,0.061302682
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,naive bayers,precision,0.263589789
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,naive bayers,recall,0.513409962
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,naive bayers,F-measure,0.348338911
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,naive bayers,AUC,0.375264426
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,naive bayers,error,0.486590038
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,SVM,precision,0.897241855
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,SVM,recall,0.869731801
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,SVM,F-measure,0.867957314
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,SVM,AUC,0.873134328
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geocluster-facet.arff,SVM,error,0.130268199
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,random forest,precision,0.857344358
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,random forest,recall,0.837398374
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,random forest,F-measure,0.80741625
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,random forest,AUC,0.774176118
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,random forest,error,0.154471545
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,J48,precision,0.803500759
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,J48,recall,0.812330623
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,J48,F-measure,0.785155478
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,J48,AUC,0.669280648
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,J48,error,0.132113821
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,naive bayers,precision,0.79757484
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,naive bayers,recall,0.386178862
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,naive bayers,F-measure,0.351783418
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,naive bayers,AUC,0.694877183
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,naive bayers,error,0.60298103
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,SVM,precision,0.84621806
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,SVM,recall,0.806910569
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,SVM,F-measure,0.754887079
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,SVM,AUC,0.605263158
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geohash-java.arff,SVM,error,0.193089431
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,random forest,precision,0.970013143
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,random forest,recall,0.959766694
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,random forest,F-measure,0.962419789
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,random forest,AUC,0.982396121
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,random forest,error,0.037376503
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,J48,precision,0.953948104
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,J48,recall,0.949648851
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,J48,F-measure,0.951280766
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,J48,AUC,0.940049813
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,J48,error,0.016545649
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,naive bayers,precision,0.804033169
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,naive bayers,recall,0.896678967
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,naive bayers,F-measure,0.847832642
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,naive bayers,AUC,0.371798419
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,naive bayers,error,0.103321033
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,SVM,precision,0.896538147
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,SVM,recall,0.122247352
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,SVM,F-measure,0.057169074
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,SVM,AUC,0.50953424
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geoip-api-java.arff,SVM,error,0.877276515
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,random forest,precision,0.933910307
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,random forest,recall,0.922580645
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,random forest,F-measure,0.922696697
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,random forest,AUC,0.95796354
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,random forest,error,0.077419355
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,J48,precision,0.919526568
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,J48,recall,0.919354839
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,J48,F-measure,0.919402219
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,J48,AUC,0.935084034
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,J48,error,0.006451613
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,naive bayers,precision,0.300728408
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,naive bayers,recall,0.548387097
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,naive bayers,F-measure,0.38844086
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,naive bayers,AUC,0.670861345
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,naive bayers,error,0.451612903
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,SVM,precision,0.933910307
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,SVM,recall,0.922580645
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,SVM,F-measure,0.922696697
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,SVM,AUC,0.929411765
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\geojson-jackson.arff,SVM,error,0.077419355
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,random forest,precision,0.994726296
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,random forest,recall,0.9923771
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,random forest,F-measure,0.993056542
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,random forest,AUC,0.997409278
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,random forest,error,0.0076229
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,J48,precision,0.992186161
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,J48,recall,0.990510268
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,J48,F-measure,0.991116739
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,J48,AUC,0.995593398
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,J48,error,0.00513379
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,naive bayers,precision,0.966067578
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,naive bayers,recall,0.982887368
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,naive bayers,F-measure,0.974404894
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,naive bayers,AUC,0.65176336
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,naive bayers,error,0.017112632
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,SVM,precision,0.983761272
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,SVM,recall,0.682016179
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,SVM,F-measure,0.79487675
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,SVM,AUC,0.838239949
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\getdown.arff,SVM,error,0.317983821
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,random forest,precision,0.913746898
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,random forest,recall,0.88172043
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,random forest,F-measure,0.885360557
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,random forest,AUC,0.895500961
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,random forest,error,0.11827957
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,J48,precision,0.915185259
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,J48,recall,0.884408602
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,J48,F-measure,0.887928303
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,J48,AUC,0.882280978
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,J48,error,0.115591398
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,naive bayers,precision,0.464376301
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,naive bayers,recall,0.681451613
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,naive bayers,F-measure,0.552351667
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,naive bayers,AUC,0.731243602
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,naive bayers,error,0.318548387
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,SVM,precision,0.913746898
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,SVM,recall,0.88172043
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,SVM,F-measure,0.885360557
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,SVM,AUC,0.91321499
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\glacieruploader.arff,SVM,error,0.11827957
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,random forest,precision,0.785028714
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,random forest,recall,0.750337382
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,random forest,F-measure,0.728626625
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,random forest,AUC,0.780058992
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,random forest,error,0.201079622
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,J48,precision,0.654250868
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,J48,recall,0.659919028
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,J48,F-measure,0.653481254
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,J48,AUC,0.664716522
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,J48,error,0.072874494
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,naive bayers,precision,0.171648627
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,naive bayers,recall,0.414304993
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,naive bayers,F-measure,0.242732124
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,naive bayers,AUC,0.610647863
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,naive bayers,error,0.585695007
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,SVM,precision,0.828973236
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,SVM,recall,0.758434548
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,SVM,F-measure,0.729382728
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,SVM,AUC,0.708469055
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-bloom-filter.arff,SVM,error,0.241565452
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,random forest,precision,0.972999651
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,random forest,recall,0.971175166
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,random forest,F-measure,0.971726779
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,random forest,AUC,0.99055115
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,random forest,error,0.014634146
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,J48,precision,0.927560057
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,J48,recall,0.930820399
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,J48,F-measure,0.927625186
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,J48,AUC,0.857337993
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,J48,error,0.029268293
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,naive bayers,precision,0.724952188
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,naive bayers,recall,0.851441242
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,naive bayers,F-measure,0.783122004
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,naive bayers,AUC,0.372950871
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,naive bayers,error,0.148558758
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,SVM,precision,0.890050384
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,SVM,recall,0.576940133
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,SVM,F-measure,0.631277327
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,SVM,AUC,0.7515625
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-lucene-utils.arff,SVM,error,0.423059867
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,random forest,precision,0.847432989
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,random forest,recall,0.803149606
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,random forest,F-measure,0.788503371
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,random forest,AUC,0.813274843
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,random forest,error,0.188976378
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,J48,precision,0.723222752
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,J48,recall,0.724409449
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,J48,F-measure,0.723634378
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,J48,AUC,0.709326721
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,J48,error,0.015748031
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,naive bayers,precision,0.177459855
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,naive bayers,recall,0.421259843
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,naive bayers,F-measure,0.249721901
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,naive bayers,AUC,0.646035984
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,naive bayers,error,0.578740157
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,SVM,precision,0.826377953
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,SVM,recall,0.751968504
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,SVM,F-measure,0.722111966
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,SVM,AUC,0.705607477
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\greplin-zookeeper-utils.arff,SVM,error,0.248031496
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,random forest,precision,0.854829872
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,random forest,recall,0.810631229
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,random forest,F-measure,0.802674891
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,random forest,AUC,0.869274584
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,random forest,error,0.179401993
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,J48,precision,0.816118239
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,J48,recall,0.8089701
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,J48,F-measure,0.807002397
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,J48,AUC,0.799617392
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,J48,error,0.081395349
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,naive bayers,precision,0.228871646
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,naive bayers,recall,0.478405316
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,naive bayers,F-measure,0.30961962
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,naive bayers,AUC,0.453932236
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,naive bayers,error,0.521594684
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,SVM,precision,0.839952183
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,SVM,recall,0.76910299
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,SVM,F-measure,0.753303602
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,SVM,AUC,0.758680556
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gson-fire.arff,SVM,error,0.23089701
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,random forest,precision,0.999843579
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,random forest,recall,0.999843554
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,random forest,F-measure,0.999840432
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,random forest,AUC,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,random forest,error,1.56E-04
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,J48,precision,0.999687207
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,J48,recall,0.999687109
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,J48,F-measure,0.999674096
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,J48,AUC,1
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,J48,error,3.13E-04
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,naive bayers,precision,0.99571532
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,naive bayers,recall,0.346683354
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,naive bayers,F-measure,0.512928942
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,naive bayers,AUC,0.51664032
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,naive bayers,error,0.65175219
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,SVM,precision,0.997971294
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,SVM,recall,0.188829787
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,SVM,F-measure,0.314699611
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,SVM,AUC,0.593588337
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\gwt-bootstrap.arff,SVM,error,0.811170213
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,random forest,precision,0.990520916
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,random forest,recall,0.984912652
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,random forest,F-measure,0.986802011
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,random forest,AUC,0.993094974
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,random forest,error,0.012440445
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,J48,precision,0.983445053
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,J48,recall,0.98332451
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,J48,F-measure,0.983384246
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,J48,AUC,0.818745045
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,J48,error,2.65E-04
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,naive bayers,precision,0.964326079
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,naive bayers,recall,0.982001059
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,naive bayers,F-measure,0.973083314
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,naive bayers,AUC,0.411407959
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,naive bayers,error,0.017998941
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,SVM,precision,0.983184742
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,SVM,recall,0.744309158
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,SVM,F-measure,0.837241708
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,SVM,AUC,0.869811321
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hadoop-book.arff,SVM,error,0.255690842
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,random forest,precision,0.942003389
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,random forest,recall,0.93654267
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,random forest,F-measure,0.934548667
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,random forest,AUC,0.94219036
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,random forest,error,0.06345733
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,J48,precision,0.866659605
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,J48,recall,0.864332604
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,J48,F-measure,0.865213485
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,J48,AUC,0.833609344
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,J48,error,0.01750547
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,naive bayers,precision,0.106301682
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,naive bayers,recall,0.326039387
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,naive bayers,F-measure,0.1603296
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,naive bayers,AUC,0.654144513
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,naive bayers,error,0.673960613
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,SVM,precision,0.854232437
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,SVM,recall,0.814004376
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,SVM,F-measure,0.788169056
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,SVM,AUC,0.714765101
+D:\experimental data\ISSTA2016_PMT\AAAAADataForISSTA\test_9ASE\AICE_arffs\hashids-java.arff,SVM,error,0.185995624

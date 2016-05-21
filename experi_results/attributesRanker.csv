@@ -1,0 +1,15 @@
+feature,merit
+numExecuteCovered,0.66022
+numTestCovered,0.40132
+numMutantAssertion,0.32695
+Instability,0.07452
+numClassAssertion,0.05523
+LOC,0.05127
+ce,0.03863
+Ca,0.02956
+infoComplexity,0.02254
+depNestblock,0.01301
+typeReturn,0.01018
+typeOpertaor,0.00885
+numChildren,0.00561
+depInheritance,0.00542

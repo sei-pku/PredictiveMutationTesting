@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PKUMetric Plug-in
+Bundle-SymbolicName: edu.pku.sei.metric;singleton:=true
+Bundle-Version: 1.4
+Bundle-Activator: edu.pku.sei.metric.Activator
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.jdt.core,
+ org.eclipse.jdt.ui
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: lib/jdbm.jar,
+ .,
+ lib/bcel-5.2.jar
+Bundle-Vendor: edu.pku.sei
+Eclipse-LazyStart: true
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
